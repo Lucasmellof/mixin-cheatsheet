@@ -14,7 +14,7 @@ _Note: the method modifications listed in these documents are what the code_ eff
  - [`@Overwrite`](overwrite.md)
  - [`@ModifyArg`](modify-arg.md)
  - [`@ModifyArgs`](modify-args.md)
- - ~~[`@ModifyConstant`](modify-constant.md)~~
+ - [`@ModifyConstant`](modify-constant.md)
  - [`@ModifyVariable`](modify-variable.md)
 
  ### Non-Injectors
